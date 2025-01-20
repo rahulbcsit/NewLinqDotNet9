@@ -1,0 +1,77 @@
+# .NET Core & .NET 8
+bin/
+obj/
+!.gitkeep
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+*.swp
+*.swo
+.DS_Store?
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+# Resharper
+_ReSharper.Caches
+*.sln.cache
+
+# Temporary and backup files
+~$*
+*.tmp
+*.bak
+*.old
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+nuget.exe
+
+# Entity Framework
+Migrations/
+
+# System files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Localizations
+*.sln.ideconfig
+
+# Rider-specific user files
+.idea/
+
